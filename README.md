@@ -1,17 +1,81 @@
-# BE_Library_Mgmt_system
-BE project in Pyqt4 
-About RFID Library Management System
-The RFID Library Management System revolutionizes the way libraries track and manage their collections, providing an efficient, user-friendly experience for both library staff and patrons. At its core, this system harnesses Radio-Frequency Identification (RFID) technology, enabling seamless interaction with books and other media without the need for direct line-of-sight scanning required by traditional barcode systems.
+# 📚 RFID-Based Library Management System
 
-Key Features:
+A smart library management system designed using **RFID**, **Android**, and **IoT** technologies, enhanced with **book recommendation** and **navigation** features.
 
-Automated Check-in/Check-out: Streamlines borrowing processes, reducing wait times and improving user experience.
-Inventory Management: Allows for real-time tracking of items within the library, significantly reducing the effort and time required for inventory audits.
-Security Enhancement: Integrates theft-detection mechanisms, ensuring the security of valuable resources.
-Resource Optimization: Empowers library staff to focus on customer service and other high-value tasks by automating routine operations.
-Benefits:
+---
 
-Increased Efficiency: Minimizes manual data entry, errors, and operational delays.
-Enhanced User Experience: Provides a smooth, hassle-free borrowing and return process for patrons.
-Data Insights: Generates valuable data on circulation patterns and preferences, aiding in informed decision-making and collection development.
-Future-ready: Adapts to the evolving needs of modern libraries, supporting digital transformations and new service models.
+## 🧰 Tools & Technologies
+
+- 📶 **RFID Tags & Readers** (UHF & Passive)
+- 📱 **Android Studio** (User-facing app)
+- 🔌 **ZigBee Modules** (Communication layer)
+- 🧮 **Algorithms**: Collaborative Filtering, Jaccard Index, RSSI
+- 🗄️ **Backend**: Firebase, MySQL
+- 🧠 **Hardware**: Raspberry Pi, RFID Antenna, Security Gate
+
+---
+
+## 📖 Project Description
+
+This project automates the entire library experience by enabling:
+- **Book scanning** using RFID
+- **Navigation** to books via mobile app
+- **Recommendations** based on user behavior
+- **Anti-theft detection** at gates
+- **Admin dashboard** for managing book records
+
+---
+
+## 🖼️ System Architecture
+
+![System Architecture](assets/system-architecture.png)
+
+---
+
+## 🔄 Workflow Diagrams
+
+### Book Issue Flow
+![Issue DFD](assets/issue-flow.png)
+
+### Book Return Flow
+![Return DFD](assets/return-flow.png)
+
+### Entity Relationship
+![ER Diagram](assets/er-diagram.png)
+
+### UML Class Diagram
+![UML Diagram](assets/uml-diagram.png)
+
+---
+
+## 💡 Algorithms Used
+
+- **Collaborative Filtering** for book recommendation
+- **Jaccard Index** for similarity matching
+- **RSSI (Relative Signal Strength Index)** for distance-based navigation
+
+![RSSI Diagram](assets/rssi-algo.png)
+
+---
+
+## ⚙️ Features
+
+- 🔍 Book search, suggestion, and shortest-path navigation
+- 📲 Android mobile application
+- 🚪 Security with RFID gate scanning
+- 🔔 Notifications for due dates and fines
+
+---
+
+## 🎯 Results
+
+- ✅ Reduced human intervention by 80%
+- 🔐 Improved security and traceability
+- 🔄 Real-time inventory and movement tracking
+- ⭐ Increased user satisfaction and usability
+
+---
+
+## 📂 Folder Structure
+
+
