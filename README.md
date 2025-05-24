@@ -60,6 +60,37 @@ This project automates the entire library experience by enabling:
 
 ---
 
+## 📸 Screenshots
+
+### ✅ Functional Overview
+Once connected, users can log in at a base station and issue/return books seamlessly.
+
+![image](https://github.com/user-attachments/assets/2ea9cf53-8039-48d3-bc04-1c8204a5ff71)
+
+### 📱 Android Application Interface
+Interactive mobile interface for scanning, recommendations, and navigation.
+
+![Android App](https://github.com/user-attachments/assets/a7008cf7-4628-40b1-8938-925efc9546ad)
+
+
+### 🔥 Firebase Realtime Database
+Stores all real-time transactions of issues/returns and user preferences.
+
+![Firebase Database](assets/firebase-database.png)
+
+### 🌐 Web Portal
+Admin dashboard with login capabilities and graph-based analytics.
+
+#### Member Login  
+![Member Login](assets/member-login.png)
+
+#### Admin Login  
+![Admin Login](assets/admin-login.png)
+
+#### Insights  
+![Analytics](assets/analytics-graph.png)
+
+
 ## ⚙️ Features
 
 - 🔍 Book search, suggestion, and shortest-path navigation
