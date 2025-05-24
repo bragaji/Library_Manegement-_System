@@ -76,19 +76,23 @@ Interactive mobile interface for scanning, recommendations, and navigation.
 ### 🔥 Firebase Realtime Database
 Stores all real-time transactions of issues/returns and user preferences.
 
-![Firebase Database](assets/firebase-database.png)
+![Firebase Database](https://github.com/user-attachments/assets/d210eb79-74b2-4730-8c4b-e58516f34b28)
+
 
 ### 🌐 Web Portal
 Admin dashboard with login capabilities and graph-based analytics.
 
 #### Member Login  
-![Member Login](assets/member-login.png)
+![Member Login](https://github.com/user-attachments/assets/4c9f2574-d849-4477-90b2-e4fd0b4cfaa4)
+
 
 #### Admin Login  
-![Admin Login](assets/admin-login.png)
+![Admin Login](https://github.com/user-attachments/assets/606718f2-f79d-4621-a737-cd4ff3014d58)
+
 
 #### Insights  
-![Analytics](assets/analytics-graph.png)
+![Analytics](https://github.com/user-attachments/assets/8ceaba00-bd65-4897-939b-f18e792bf89a)
+
 
 
 ## ⚙️ Features
