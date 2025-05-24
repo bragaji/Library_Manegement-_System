@@ -28,7 +28,9 @@ This project automates the entire library experience by enabling:
 
 ## 🖼️ System Architecture
 
-![System Architecture](assets/system-architecture.png)
+
+![image](https://github.com/user-attachments/assets/a8dd988c-8b6c-4ac5-8c17-6578939139e5)
+
 
 ---
 
