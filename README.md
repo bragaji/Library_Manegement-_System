@@ -37,16 +37,16 @@ This project automates the entire library experience by enabling:
 ## 🔄 Workflow Diagrams
 
 ### Book Issue Flow
-![Issue DFD](assets/issue-flow.png)
+![image](https://github.com/user-attachments/assets/fd05f2cd-f244-4c88-b25f-efc3787b4473)
 
 ### Book Return Flow
-![Return DFD](assets/return-flow.png)
+![image](https://github.com/user-attachments/assets/5f8cdc43-4fed-4906-af8b-59999005ab93)
 
 ### Entity Relationship
-![ER Diagram](assets/er-diagram.png)
+![image](https://github.com/user-attachments/assets/7b1fa6e1-829a-4bca-bf8d-7b75feb1f12b)
 
 ### UML Class Diagram
-![UML Diagram](assets/uml-diagram.png)
+![image](https://github.com/user-attachments/assets/5ec9f7c2-cc67-4998-9dd0-a681d96af5a7)
 
 ---
 
@@ -56,7 +56,7 @@ This project automates the entire library experience by enabling:
 - **Jaccard Index** for similarity matching
 - **RSSI (Relative Signal Strength Index)** for distance-based navigation
 
-![RSSI Diagram](assets/rssi-algo.png)
+![image](https://github.com/user-attachments/assets/34059da1-67f2-4019-b552-52261d4881dc)
 
 ---
 
@@ -78,6 +78,5 @@ This project automates the entire library experience by enabling:
 
 ---
 
-## 📂 Folder Structure
 
 
